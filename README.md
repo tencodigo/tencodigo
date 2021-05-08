@@ -1,9 +1,6 @@
 ### TEN CODIGO
 
-This is my open source playground
+This is the open source account for Ten South Tech
 
-For now my interests include VueJS, AWS, and Azure
-
-As I create stuff that I think might be useful to others, I will post here.
 
 
